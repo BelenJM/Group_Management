@@ -1,5 +1,4 @@
-# Group_Management
-Group-management package for genetic management of group-living animal species
+# Group-management package for genetic management of group-living animal species
 
 # What is the purpose of the Group-Management Package?
 The package included in this Group-Management folder helps storing and importing data from group-living species into PMx. This package consists of:
