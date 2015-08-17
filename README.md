@@ -1,6 +1,6 @@
-# Group-management package for genetic management of group-living animal species
+# Group-management package for the genetic management of group-living species
 
-# What is the purpose of the Group-Management Package?
+# Purpose:
 The package included in this Group-Management folder helps storing and importing data from group-living species into PMx. This package consists of:
 (i) a data entry sheet in Excel that allows registration of group data, and
 (ii) group2PMx, a converter that transforms the Excel file into a .csv file readable by PMx.
