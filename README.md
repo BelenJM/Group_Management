@@ -15,6 +15,6 @@ Note that the data entry sheet in Excel can also be used for individual records 
 # Citations:
 The Group-Management Package and group2PMx should be cited as:
 
-Jiménez-Mena, B.; Schad, K.; Hanna, N. & Lacy, R.C. (2015) Pedigree analysis for the genetic management of group-living species. Methods in Ecology and Evolution (submitted).
+Jiménez-Mena, B.; Schad, K.; Hanna, N. & Lacy, R.C. (2015) Pedigree analysis for the genetic management of group-living species. Ecology and Evolution (in press).
 
 Jiménez-Mena, B.; Schad, K. & Lacy, R.C. (2015) User Manual for group management in PMx. Available from http://www.vortex10.org/PMx.aspx or https://github.com/BelenJM/Group_Management
